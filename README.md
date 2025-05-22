@@ -56,8 +56,8 @@ apt-get -y install php unzip git wget
 ### 📥 Clone & Run:
 
 ```bash
-git clone https://github.com/yourusername/hound-spoof
-cd hound-spoof
+git clone https://github.com/yourusername/Pound
+cd Pound
 bash hound.sh
 ```
 
