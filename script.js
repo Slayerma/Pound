@@ -3,8 +3,8 @@ const msgerInput = get(".msger-input");
 const msgerChat = get(".msger-chat");
 
 const BOT_MSGS = [
-"Hi, how are you?",
-"Turn your location on for find people near you",
+"Hi, I'm Priya how are you?",
+"Turn on your location to find me",
 "I am powered by ChatGPT 4",
 "I feel sleepy! :("];
 
